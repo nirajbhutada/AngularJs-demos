@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* line 37, ../scss/angulardemo.scss */
+html, body {
+  height: 100%;
+  font-size: 100%;
+}
+
+/* line 41, ../scss/angulardemo.scss */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%;
+  color: #293033;
+  line-height: 1.125em;
+}
+
+/* line 47, ../scss/angulardemo.scss */
+ul {
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+/* line 52, ../scss/angulardemo.scss */
+header {
+  font-size: 200%;
+  margin-bottom: 20px;
+}
+
+/* line 57, ../scss/angulardemo.scss */
+body div {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/*Common classes*/
+/* line 64, ../scss/angulardemo.scss */
+.hide {
+  display: none;
+}
+
+/* line 67, ../scss/angulardemo.scss */
+.clear-both {
+  clear: both;
+}
+
+/* line 70, ../scss/angulardemo.scss */
+.no-margin {
+  margin: 0px;
+}
+
+/* line 73, ../scss/angulardemo.scss */
+.no-padding {
+  padding: 0px;
+}
+
+/* line 76, ../scss/angulardemo.scss */
+.error {
+  color: #ff1616;
+}
+
+/* line 79, ../scss/angulardemo.scss */
+.error-border {
+  border: 1px solid #ff1616;
+}
